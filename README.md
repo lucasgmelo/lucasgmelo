@@ -1,6 +1,8 @@
 <h1 align="center">Hey! call me Lucas :)</h1>
 <h3 align="center">I'm on the journey to learn a bit more everyday</h3>
 
+![](https://komarev.com/ghpvc/?username=lucasgmelo)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasgmelo" alt="informações"/></a> </p>
 
 - 🔭  I’m currently working on <b>#100DaysOfCode</b>. Checkout my repo or ask me anything!
