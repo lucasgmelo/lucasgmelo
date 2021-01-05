@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hey! call me Lucas :)</h1>
+<h3 align="center">I'm on the journey to learn a bit more everyday</h3>
 
-<!--
-**lucasgmelo/lucasgmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasgmelo" alt="informações"/></a> </p>
 
-Here are some ideas to get you started:
+- 🔭  I’m currently working on <b>#100DaysOfCode</b>. Checkout my repo or ask me anything!
+- 🌱  I’m currently learning <b>Javascript and React JS.</b>
+- 💬  I really love creating connections. <i>Let's talk!</i>
+- 🤍  Fun fact: I'm also photographer. I love all forms of art and that's why I love coding: <b>it's art for me</b>. Programming also allows me to create and change other people's lives <b>through how I see the world</b>. And that's why I wanna keep learning a bit more everyday: I want to create a better world. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgmelo&show_icons=true&locale=en&layout=compact" alt="informacoes" /></p>
