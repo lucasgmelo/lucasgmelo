@@ -10,6 +10,4 @@
 - 💬  I really love creating connections. <i>Let's talk!</i>
 - 🤍  Fun fact: I'm also photographer. I love all forms of art and that's why I love coding: <b>it's art for me</b>. Programming also allows me to create and change other people's lives <b>through how I see the world</b>. And that's why I wanna keep learning a bit more everyday: I want to create a better world. 
 
-<p></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgmelo&show_icons=true&locale=en&layout=compact" alt="informacoes" /></p>
