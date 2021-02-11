@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=lucasgmelo)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgmelo)](https://github.com/lucasgmelo/github-readme-stats)
+[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgmelo)](https://github.com/lucasgmelo/github-readme-stats)
 
 - 🔭  I’m currently working on <b>#100DaysOfCode</b>. Checkout my repo or ask me anything!
 - 🌱  I’m currently learning <b>Javascript, React JS and Swift!</b>
@@ -12,4 +12,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas_Melo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgmeloo/)](https://www.linkedin.com/in/lucasgmeloo/) 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgmelo&show_icons=true&locale=en&layout=compact" alt="informacoes" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgmelo&show_icons=true&locale=en&layout=compact" alt="informacões" /></p>
