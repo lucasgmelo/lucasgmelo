@@ -1,7 +1,7 @@
 <h1 align="center">Hey! call me Lucas :)</h1>
 <h3 align="center">I'm on the journey to learn a bit more everyday</h3>
 
-![](https://komarev.com/ghpvc/?username=lucasgmelo)
+[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgmelo)](https://github.com/lucasgmelo/github-readme-stats)
 
 - 🔭  I’m currently working on <b>Ignite - Ignews</b>. Checkout my repo or ask me anything!
 - 🌱  I’m currently learning <b>React JS and Next JS.</b>
