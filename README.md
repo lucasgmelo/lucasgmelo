@@ -2,6 +2,7 @@
 
 [![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgmelo)](https://github.com/lucasgmelo/github-readme-stats)
 
+- 🇧🇷  I'm from Brazil!
 - 🔭  I’m currently working at <b>Neurotech</b>.
 - 🌱  I’m currently learning <b>React JS, Next JS, Tests and C/C++.</b> :)
 - 💬  I really love creating connections. <i>Let's talk!</i>
