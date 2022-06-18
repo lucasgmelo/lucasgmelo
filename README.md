@@ -13,7 +13,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">✨ Really into Front End, UI/UX Design and Agile Methodologies<br>📚 Currently learning more about Clean Code, Docker, DevOps...<br>💬 I really love creating connections. Let's talk!<br>🦕 Fun fact: I love art :)</p>
+<p align="left">✨ Really into Front End, UI/UX Design and Agile Methodologies<br>📚 Currently learning more about Clean Code, Microfrontends, DevOps...<br>💬 I really love creating connections. Let's talk!<br>🦕 Fun fact: I love art :)</p>
 
 ###
 <div align="left">
