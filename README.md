@@ -7,7 +7,7 @@
 </div>
 
 ###
-<p align="left">You can call me Lucas :) I'm from Brazil. <br>Currently working as Software Engineer (Front End) on Neurotech<br>Also Computer Science Student at CIn - UFPE.</p>
+<p align="left">You can call me Lucas :) I'm from Brazil. <br>Currently working as Software Engineer (Front End) at Neurotech<br>Also Computer Science Student at CIn - UFPE.</p>
 
 ###
 <h2 align="left">About me</h2>
