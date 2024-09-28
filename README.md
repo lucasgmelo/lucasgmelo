@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">You can call me Lucas :) I'm from Brazil.<br>Currently working as Software Engineer (Front End) at Neurotech<br>Also Computer Science Student at CIn - UFPE.</p>
+<p align="left">You can call me Lucas :) I'm from Brazil.<br>Currently working as Software Engineer (Front End) at Neurotech<br>Computer Scientist - CIn/UFPE.</p>
 
 ###
 
-<p align="left">✨ Really into Front End, UI/UX Design and Agile Methodologies<br>📚 Currently learning more about Clean Code, Microfrontends, DevOps...<br>💬 I really love creating connections. Let's talk!<br>🦕 Fun fact: I love art :)</p>
+<p align="left">✨ I'm really into Front End, UI/UX and Product Design<br>💬 I really love creating connections. Let's talk!</p>
 
 ###
 
